@@ -1,0 +1,22 @@
+#valueInput {
+  padding: 10px;
+}
+
+#resetResultBtn {
+  cursor: pointer;
+}
+
+#calculateResultBtn {
+  background-color: steelblue;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 2px;
+  cursor: pointer;
+}
+#calculateResultBtn:hover {
+  opacity: 0.7;
+}
+
+.input-and-result-btn {
+  display: flex;
+}
